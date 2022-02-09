@@ -1,14 +1,10 @@
 # Trang web tỏ tình crush cực kỳ lãng mạn
 
-Link Demo: https://j2c.cc/LOVE-CRUSH
+Link Demo: https://huyaio.github.io/crush-love/
 
 ## Author
 
-**Facebook**: <a href="http://fb.com/dn279">andyngojs</a>
-
-## Join Us
-
-**Group Facebook**: <a href="https://fb.com/groups/dobeeteam.community">DOBEE Community</a>
+**Facebook**: <a><b href="http://fb.com/suppotr.10">Phạm Hoàng Huyメ</a></b>
 
 ## Cách sử dụng:
 
