@@ -4,7 +4,7 @@ Link Demo: https://huyaio.github.io/crush-love/
 
 ## Author
 
-**Facebook**: <a><b href="http://fb.com/suppotr.10">Phạm Hoàng Huyメ</a></b>
+**Facebook**: <a href="http://fb.com/suppotr.10">Phạm Hoàng Huyメ</a>
 
 ## Cách sử dụng:
 
