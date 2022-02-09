@@ -1,6 +1,6 @@
 # Trang web tỏ tình crush cực kỳ lãng mạn
 
-Link Demo: https://huyaio.github.io/crush-love/
+Link Demo: https://huyaio.github.io/Crush_Lovely/
 
 ## Author
 
